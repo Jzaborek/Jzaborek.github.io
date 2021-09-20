@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Previous Projects
 
 [Hickory Hills Flood Evacuation Network Analysis](/sample_page)
 <img src="images/Proj1?raw=true"/>
@@ -15,7 +15,7 @@ Areas in Georgia by Census Tract
 
 ---
 
-### Category Name 2
+### Upcoming Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
