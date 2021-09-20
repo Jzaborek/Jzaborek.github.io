@@ -5,7 +5,7 @@
 ### Previous Projects
 
 [Hickory Hills Flood Evacuation Network Analysis](/pdf/Final%20Memo.pdf)
-<img src="images/Proj1.jpeg?raw=true"/> 
+<img src="/images/Proj1.JPG?raw=true"/> 
 
 ---
 [An interactive Script to Generate Shapefiles Near Designated Wetland
