@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Hickory Hills Flood Evacuation Network Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Proj1?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
