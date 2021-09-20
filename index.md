@@ -8,7 +8,9 @@
 <img src="images/Proj1?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[An interactive Script to Generate Shapefiles Near Designated Wetland
+Areas in Georgia by Census Tract
+](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
