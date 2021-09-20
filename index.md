@@ -5,6 +5,7 @@
 ### Previous Projects
 
 [Hickory Hills Flood Evacuation Network Analysis](/pdf/Final%20Memo.pdf)
+</br>
 <img src="/images/Proj1.JPG?raw=true"/> 
 
 ---
