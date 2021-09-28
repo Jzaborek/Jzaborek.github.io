@@ -16,8 +16,7 @@ Areas in Georgia by Census Tract
 
 ---
 
-[A route optimization story map]
-<a href="https://storymaps.arcgis.com/stories/e0cbaa1f0118427ba8eb07b9a316ac82">Story Map</a>
+<a href="https://storymaps.arcgis.com/stories/e0cbaa1f0118427ba8eb07b9a316ac82">A route optimization story map</a>
 
 ### Upcoming Projects
 
