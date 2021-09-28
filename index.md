@@ -5,7 +5,7 @@
 ### Previous Projects
 
 [Hickory Hills Flood Evacuation Network Analysis](/pdf/Final%20Memo.pdf)
-</br>
+
 <img src="/images/Proj1.JPG?raw=true"/> 
 
 ---
@@ -15,10 +15,9 @@ Areas in Georgia by Census Tract
 
 
 ---
-</br>
+
 [A route optimization story map]
-https://storymaps.arcgis.com/stories/e0cbaa1f0118427ba8eb07b9a316ac82
-</br>
+<a href="https://storymaps.arcgis.com/stories/e0cbaa1f0118427ba8eb07b9a316ac82">Story Map</a>
 
 ### Upcoming Projects
 
