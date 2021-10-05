@@ -18,6 +18,12 @@ Areas in Georgia by Census Tract
 
 <a href="https://storymaps.arcgis.com/stories/e0cbaa1f0118427ba8eb07b9a316ac82">A route optimization story map</a>
 
+
+
+---
+
+<a href="https://jzaborek.users.earthengine.app/view/swir-burn-area-compare-app">Burn Area Earth Engine Application</a>
+
 ### Upcoming Projects
 
 - [Project 1 Title](http://example.com/)
